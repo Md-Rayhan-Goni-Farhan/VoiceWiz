@@ -30,8 +30,8 @@ This tool is **not** made for copying voice actors, breaching copyright laws, or
 
 Tap `VoiceWiz_Setup.exe`, choose where you want to install, then hit Install. Everything else is handled automatically.
 
-![Installation Step 1](images/install1.png)
-![Installation Step 2](images/install2.png)
+![Installation Step 1](image1.png)
+![Installation Step 2](image2.png)
 
 ### Step 2 — Internet Required for Setup
 
@@ -79,23 +79,23 @@ The installer downloads the following during setup:
 1. Open the app
 2. Click **"Train a New Character"**
 
-![Train menu](images/train1.png)
+![Train menu](image3.png)
 
 3. Enter your character name, add tags, and optionally add a photo for identification
 
-![Character details](images/train2.png)
+![Character details](image4.png)
 
 4. Select a valid audio file (`WAV` or `MP3`) — anywhere from 10 seconds to 30 minutes
 
-![Audio selection](images/train3.png)
+![Audio selection](image5.png)
 
 5. Click **Start**
 
-![Start training](images/train4.png)
+![Start training](image6.png)
 
 6. Once training is done you will see a success message
 
-![Training complete](images/train5.png)
+![Training complete](image7.png)
 
 7. Go back to the main menu and your character profile will appear at the bottom
 
@@ -108,7 +108,7 @@ The installer downloads the following during setup:
 1. Choose **"Select a Recorded File"** from the main menu
 2. Click **"Browse File"** to select your recorded voice
 
-![Browse file](images/convert1.png)
+![Browse file](image8.png)
 
 3. Click the dropdown under **"Convert to"** and select your character
 4. Click **Convert Voice**
@@ -118,7 +118,7 @@ The installer downloads the following during setup:
 ...\VoiceWiz\voices\
 ```
 
-![Output](images/convert2.png)
+![Output](image9.png)
 
 ---
 
